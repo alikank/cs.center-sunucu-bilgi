@@ -2,7 +2,7 @@
 <form action="" method="POST">
 
 Sunucu İP
-<input type="text" name="ip">
+<input type="text" name="ip" required>
 <input type="submit">
 
 </form>
