@@ -1,4 +1,4 @@
-
+<html>
 <form action="" method="POST">
 
 Sunucu İP
@@ -6,6 +6,7 @@ Sunucu İP
 <input type="submit">
 
 </form>
+</html>
 
 <?php
 
